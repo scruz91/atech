@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scruz91/atech/static/css/main.d1b05096.chunk.css",
+    "main.js": "/scruz91/atech/static/js/main.616758ae.chunk.js",
+    "main.js.map": "/scruz91/atech/static/js/main.616758ae.chunk.js.map",
+    "runtime-main.js": "/scruz91/atech/static/js/runtime-main.5d9dd841.js",
+    "runtime-main.js.map": "/scruz91/atech/static/js/runtime-main.5d9dd841.js.map",
+    "static/js/2.330e1e73.chunk.js": "/scruz91/atech/static/js/2.330e1e73.chunk.js",
+    "static/js/2.330e1e73.chunk.js.map": "/scruz91/atech/static/js/2.330e1e73.chunk.js.map",
+    "index.html": "/scruz91/atech/index.html",
+    "precache-manifest.b6d647e10729cc86ab9ed4d3d7c8f372.js": "/scruz91/atech/precache-manifest.b6d647e10729cc86ab9ed4d3d7c8f372.js",
+    "service-worker.js": "/scruz91/atech/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/scruz91/atech/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.330e1e73.chunk.js.LICENSE.txt": "/scruz91/atech/static/js/2.330e1e73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d9dd841.js",
+    "static/js/2.330e1e73.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.616758ae.chunk.js"
+  ]
+}
