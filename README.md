@@ -1,2 +1,0 @@
-# atech
-Repositorio ATECH
